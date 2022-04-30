@@ -21,7 +21,7 @@ to use that knowledge to help and secure companies.
 [https://cleto-a.github.io/](http://cleto-a.github.io)
 *   🧠  I'm learning Active Directory | Attack, Defense, and 
 Countermeasures
-*   🤝  I'm open to collaborating on Security Automation, CTFs, mentoring anyway I can.
+*   🤝  I'm open to collaborating on Security Automation, CTFs, or mentoring anyway I can.
 
 
 ### Skills
