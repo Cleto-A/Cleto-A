@@ -22,7 +22,7 @@ to use that knowledge to help and secure companies.
 *   🧠  I'm learning Active Directory | Attack, Defense, and 
 Countermeasures
 *   🤝  I'm open to collaborating on Security Automation
-*   
+
 
 ### Skills
 
